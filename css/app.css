@@ -4,3 +4,6 @@ body {
 footer{
 	background-color: yellow;
 }
+.destination:hover h2 {
+transform: rotate(0deg);
+}
